@@ -12,5 +12,4 @@ namespace Learn
             Console.WriteLine(string.Join(",",x));
         }
     }
-
 }
